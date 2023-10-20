@@ -28,7 +28,7 @@
   "author": "Michael Tromba",
   "license": "MIT",
   "peerDependencies": {
-    "drizzle-orm": ">=0.27.2 <1.0.0"
+    "drizzle-orm": "*"
   },
   "devDependencies": {
     "rimraf": "^5.0.1",
